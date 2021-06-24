@@ -18,3 +18,8 @@ which will send all Raylib data to Imgui and "just work".
 * [raylibpy](https://github.com/overdev/raylib-py) (specifically the `raylibpy-3.7` branch)
 * [raylib-py-flat](https://github.com/adamlwgriffiths/raylibpy-flat)
 * [pyimgui](https://github.com/swistakm/pyimgui)
+
+
+## Example
+
+See [example/demo.py](example/demo.py) for an example
