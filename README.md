@@ -15,7 +15,7 @@ which will send all Raylib data to Imgui and "just work".
 
 ## Dependencies
 
-* [raylibpy](https://github.com/overdev/raylib-py) (specifically the `raylibpy-3.7` branch)
+* [raylibpy](https://github.com/adamlwgriffiths/raylib-py) - Contains fixes for Raylib 3.7 that are not merged [upstream](https://github.com/overdev/raylib-py).
 * [raylib-py-flat](https://github.com/adamlwgriffiths/raylibpy-flat)
 * [pyimgui](https://github.com/swistakm/pyimgui)
 
