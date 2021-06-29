@@ -12,6 +12,13 @@ until the player begins interacting with the specific Imgui interface.
 If you don't care about this, there is a convenience function `send_all_events`
 which will send all Raylib data to Imgui and "just work".
 
+## Installation
+
+`pip install imraylib`
+
+Until [raylibpy](https://github.com/overdev/raylib-py) merges the `raylibpy-3.7` branch to master,
+you must manually install it from Git.
+
 
 ## Dependencies
 
